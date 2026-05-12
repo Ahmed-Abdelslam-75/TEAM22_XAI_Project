@@ -6,7 +6,6 @@ This repository contains the implementation of various Machine Learning models e
 - **Ahmed:** Random Forest, Decision Tree, CatBoost
 - **Raneem:** Logistic Regression, Naive Bayes, XGBoost
 - **Youssef Tarek:** AdaBoost
-- **Riham:** (To be added)
 
 ## Project Structure
 - `TEAM22_EDA_Upgraded (1).ipynb`: Contains the central data preprocessing, exploratory data analysis (EDA), and feature engineering techniques.
